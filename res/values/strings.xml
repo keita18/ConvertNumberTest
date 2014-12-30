@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">数値変換テスト</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="num2">2</string>
+    <string name="num1">1</string>
+    <string name="num0">0</string>
+    <string name="binaryDigits">2進数</string>
+    <string name="hexadecimal">16進数</string>
+    <string name="decimal">10進数</string>
+    <string name="clear">CLEAR</string>
+
+</resources>
